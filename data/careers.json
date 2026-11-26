@@ -1,0 +1,266 @@
+[
+ {
+  "t": "Fast Food Worker",
+  "f": "Hospitality",
+  "e": 0,
+  "a": 16,
+  "b": 16000,
+  "l": [
+   "Fast Food Worker",
+   "Shift Lead",
+   "Store Manager"
+  ]
+ },
+ {
+  "t": "Retail Associate",
+  "f": "Retail",
+  "e": 0,
+  "a": 16,
+  "b": 17000,
+  "l": [
+   "Retail Associate",
+   "Supervisor",
+   "Store Manager"
+  ]
+ },
+ {
+  "t": "Construction Laborer",
+  "f": "Construction",
+  "e": 0,
+  "a": 18,
+  "b": 24000,
+  "l": [
+   "Laborer",
+   "Foreman",
+   "Site Manager"
+  ]
+ },
+ {
+  "t": "Delivery Driver",
+  "f": "Transportation",
+  "e": 0,
+  "a": 18,
+  "b": 23000,
+  "l": [
+   "Driver",
+   "Dispatcher",
+   "Fleet Manager"
+  ]
+ },
+ {
+  "t": "Police Officer",
+  "f": "Law Enforcement",
+  "e": 1,
+  "a": 21,
+  "b": 42000,
+  "l": [
+   "Officer",
+   "Sergeant",
+   "Captain",
+   "Chief"
+  ]
+ },
+ {
+  "t": "Soldier",
+  "f": "Military",
+  "e": 1,
+  "a": 18,
+  "b": 30000,
+  "l": [
+   "Private",
+   "Sergeant",
+   "Lieutenant",
+   "Colonel"
+  ]
+ },
+ {
+  "t": "Office Clerk",
+  "f": "Government",
+  "e": 1,
+  "a": 18,
+  "b": 30000,
+  "l": [
+   "Clerk",
+   "Officer",
+   "Director"
+  ]
+ },
+ {
+  "t": "Junior Developer",
+  "f": "Information Technology",
+  "e": 2,
+  "d": [
+   "Information Technology",
+   "Computer Science",
+   "Engineering"
+  ],
+  "a": 21,
+  "b": 60000,
+  "l": [
+   "Junior Developer",
+   "Developer",
+   "Senior Developer",
+   "Tech Lead",
+   "CTO"
+  ]
+ },
+ {
+  "t": "Engineer",
+  "f": "Engineering",
+  "e": 2,
+  "d": [
+   "Engineering",
+   "Architecture"
+  ],
+  "a": 21,
+  "b": 58000,
+  "l": [
+   "Engineer",
+   "Senior Engineer",
+   "Principal Engineer",
+   "Director"
+  ]
+ },
+ {
+  "t": "Registered Nurse",
+  "f": "Healthcare",
+  "e": 2,
+  "d": [
+   "Nursing",
+   "Medicine"
+  ],
+  "a": 21,
+  "b": 55000,
+  "l": [
+   "Nurse",
+   "Charge Nurse",
+   "Nurse Manager"
+  ]
+ },
+ {
+  "t": "Teacher",
+  "f": "Education",
+  "e": 2,
+  "d": [
+   "Education"
+  ],
+  "a": 21,
+  "b": 42000,
+  "l": [
+   "Teacher",
+   "Head Teacher",
+   "Principal"
+  ]
+ },
+ {
+  "t": "Business Analyst",
+  "f": "Business",
+  "e": 2,
+  "d": [
+   "Business Administration",
+   "Communication",
+   "Psychology"
+  ],
+  "a": 21,
+  "b": 52000,
+  "l": [
+   "Analyst",
+   "Manager",
+   "Director",
+   "VP"
+  ]
+ },
+ {
+  "t": "Banker",
+  "f": "Finance",
+  "e": 2,
+  "d": [
+   "Business Administration"
+  ],
+  "a": 21,
+  "b": 62000,
+  "l": [
+   "Teller",
+   "Banker",
+   "Branch Manager",
+   "Executive"
+  ]
+ },
+ {
+  "t": "Hotel Manager",
+  "f": "Hospitality",
+  "e": 2,
+  "d": [
+   "Hospitality",
+   "Business Administration"
+  ],
+  "a": 21,
+  "b": 45000,
+  "l": [
+   "Assistant Manager",
+   "Hotel Manager",
+   "Regional Director"
+  ]
+ },
+ {
+  "t": "Attorney",
+  "f": "Law",
+  "e": 3,
+  "d": [
+   "Law"
+  ],
+  "a": 24,
+  "b": 90000,
+  "l": [
+   "Associate",
+   "Senior Associate",
+   "Partner"
+  ]
+ },
+ {
+  "t": "Doctor",
+  "f": "Healthcare",
+  "e": 3,
+  "d": [
+   "Medicine"
+  ],
+  "a": 26,
+  "b": 140000,
+  "l": [
+   "Resident",
+   "Physician",
+   "Specialist",
+   "Chief of Medicine"
+  ]
+ },
+ {
+  "t": "Research Scientist",
+  "f": "Engineering",
+  "e": 3,
+  "d": [
+   "Engineering",
+   "Computer Science",
+   "Psychology"
+  ],
+  "a": 24,
+  "b": 85000,
+  "l": [
+   "Researcher",
+   "Senior Researcher",
+   "Lab Director"
+  ]
+ },
+ {
+  "t": "Freelance Designer",
+  "f": "Freelancing",
+  "e": 0,
+  "a": 18,
+  "b": 20000,
+  "free": 1,
+  "l": [
+   "Freelancer",
+   "Established Freelancer",
+   "Agency Owner"
+  ]
+ }
+]

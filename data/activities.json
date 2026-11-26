@@ -1,0 +1,104 @@
+[
+ {
+  "id": "gym",
+  "n": "Exercise",
+  "c": 60,
+  "fx": {
+   "health": 6,
+   "happiness": 2,
+   "stress": -5,
+   "disc": 1
+  }
+ },
+ {
+  "id": "read",
+  "n": "Read books",
+  "c": 20,
+  "fx": {
+   "intel": 4,
+   "stress": -3,
+   "happiness": 1
+  }
+ },
+ {
+  "id": "movie",
+  "n": "Watch movies",
+  "c": 30,
+  "fx": {
+   "happiness": 3,
+   "stress": -4
+  }
+ },
+ {
+  "id": "game",
+  "n": "Play video games",
+  "c": 40,
+  "fx": {
+   "happiness": 4,
+   "stress": -3,
+   "social": 1,
+   "health": -1
+  }
+ },
+ {
+  "id": "party",
+  "n": "Attend a party",
+  "c": 80,
+  "fx": {
+   "happiness": 5,
+   "social": 4,
+   "health": -2,
+   "rep": 1
+  },
+  "a": 16
+ },
+ {
+  "id": "skill",
+  "n": "Learn a new skill",
+  "c": 150,
+  "fx": {
+   "intel": 3,
+   "disc": 3,
+   "conf": 2
+  }
+ },
+ {
+  "id": "vol",
+  "n": "Volunteer",
+  "c": 0,
+  "fx": {
+   "rep": 5,
+   "happiness": 3,
+   "social": 2
+  }
+ },
+ {
+  "id": "trip",
+  "n": "Take a vacation",
+  "c": 1800,
+  "fx": {
+   "happiness": 10,
+   "stress": -12,
+   "health": 2
+  },
+  "a": 12
+ },
+ {
+  "id": "doc",
+  "n": "Doctor check-up",
+  "c": 200,
+  "fx": {
+   "health": 7,
+   "stress": -1
+  }
+ },
+ {
+  "id": "meal",
+  "n": "Healthy cooking",
+  "c": 40,
+  "fx": {
+   "health": 3,
+   "disc": 1
+  }
+ }
+]

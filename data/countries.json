@@ -1,0 +1,57 @@
+{
+ "United States": {
+  "cities": [
+   "New York",
+   "Austin",
+   "Chicago",
+   "Seattle"
+  ],
+  "cost": 1,
+  "sal": 1
+ },
+ "United Kingdom": {
+  "cities": [
+   "London",
+   "Manchester",
+   "Glasgow"
+  ],
+  "cost": 0.95,
+  "sal": 0.85
+ },
+ "Philippines": {
+  "cities": [
+   "Quezon City",
+   "Cebu",
+   "Davao"
+  ],
+  "cost": 0.35,
+  "sal": 0.3
+ },
+ "Japan": {
+  "cities": [
+   "Tokyo",
+   "Osaka",
+   "Kyoto"
+  ],
+  "cost": 0.9,
+  "sal": 0.8
+ },
+ "Germany": {
+  "cities": [
+   "Berlin",
+   "Munich",
+   "Hamburg"
+  ],
+  "cost": 0.9,
+  "sal": 0.85
+ },
+ "Brazil": {
+  "cities": [
+   "Sao Paulo",
+   "Rio",
+   "Recife"
+  ],
+  "cost": 0.45,
+  "sal": 0.4
+ }
+}

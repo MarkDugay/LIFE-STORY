@@ -1,0 +1,73 @@
+[
+ {
+  "id": "apt",
+  "n": "Apartment",
+  "k": "home",
+  "p": 90000,
+  "up": 0.015
+ },
+ {
+  "id": "house",
+  "n": "House",
+  "k": "home",
+  "p": 220000,
+  "up": 0.02
+ },
+ {
+  "id": "lux",
+  "n": "Luxury House",
+  "k": "home",
+  "p": 700000,
+  "up": 0.02
+ },
+ {
+  "id": "mansion",
+  "n": "Mansion",
+  "k": "home",
+  "p": 3000000,
+  "up": 0.02
+ },
+ {
+  "id": "rent1",
+  "n": "Rental Condo",
+  "k": "rental",
+  "p": 150000,
+  "up": 0.02,
+  "rent": 0.07
+ },
+ {
+  "id": "moto",
+  "n": "Motorcycle",
+  "k": "car",
+  "p": 7000,
+  "up": 0.06
+ },
+ {
+  "id": "sedan",
+  "n": "Sedan",
+  "k": "car",
+  "p": 22000,
+  "up": 0.07
+ },
+ {
+  "id": "suv",
+  "n": "SUV",
+  "k": "car",
+  "p": 38000,
+  "up": 0.07
+ },
+ {
+  "id": "sport",
+  "n": "Sports Car",
+  "k": "car",
+  "p": 95000,
+  "up": 0.06
+ },
+ {
+  "id": "ev",
+  "n": "Electric Vehicle",
+  "k": "car",
+  "p": 45000,
+  "up": 0.05
+ }
+]
